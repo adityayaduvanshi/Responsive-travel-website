@@ -5,7 +5,7 @@ https://travel-addy.netlify.app/
 
 ### Responsive Travel Website
 
-- Beautiful headphone landing page using HTML, CSS and JAVASCRIPT.
+- Beautiful travel landing page using HTML, CSS and JAVASCRIPT.
 - Dark mode.
 - With animations when scrolling.
 - Developed first with the Mobile First methodology, then for desktop.
